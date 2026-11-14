@@ -1,0 +1,10 @@
+# Secrets and live account state — never commit
+keys.json
+day_state.json
+day_trades.csv
+
+# Logs and local artifacts
+*.log
+*.csv
+bak_*.ps1
+*.bak
